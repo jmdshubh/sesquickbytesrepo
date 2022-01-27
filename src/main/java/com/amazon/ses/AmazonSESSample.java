@@ -20,15 +20,15 @@ public class AmazonSESSample {
 	static final String TO = "tech.sriman@gmail.com";
 
 	// Replace smtp_username with your Amazon SES SMTP user name.
-	static final String SMTP_USERNAME = "AKIAUMZIS3HJM6MCP52H";
+	static final String SMTP_USERNAME = "AKIAUMZIS3HJBOEWOEM3";
 
 	// Replace smtp_password with your Amazon SES SMTP password.
-	static final String SMTP_PASSWORD = "BElCfyYvRbFD0ysYebs1z0T3ifKCJGe/zHddjcXZQWDb";
+	static final String SMTP_PASSWORD = "BGO+zj7kqtl9xzAA2sheq2ASjzaqBUKrLoFussw8Aaqb";
 
 	// The name of the Configuration Set to use for this message.
 	// If you comment out or remove this variable, you will also need to
 	// comment out or remove the header below.
-	static final String CONFIGSET = "ConfigSet";
+	//static final String CONFIGSET = "ConfigSet";
 
 	// Amazon SES SMTP host name. This example uses the US West (Oregon) region.
 	// See
